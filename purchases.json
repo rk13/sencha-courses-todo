@@ -1,0 +1,10 @@
+{purchases : [
+     { "product": "Tomato", "quantity": "1kg", "list" : "Mom's List", "notes" : "Some additional details" },
+     { "product": "Bread", "quantity": "1", "list" : "Mom's List", "notes" : "Some additional details" },
+     { "product": "Cabbage", "quantity": "3kg", "list" : "Mom's List", "notes" : "Some additional details" },
+     { "product": "Jameson", "quantity": "1", "list" : "Mom's List", "notes" : "Some additional details" },
+     { "product": "Tomato", "quantity": "1kg", "list" : "My List", "notes" : "Some additional details" },
+     { "product": "Bread", "quantity": "1", "list" : "My List", "notes" : "Some additional details" },
+     { "product": "Cabbage", "quantity": "3kg", "list" : "My List", "notes" : "Some additional details" },
+     { "product": "Jameson", "quantity": "1", "list" : "My List", "notes" : "Some additional details" },
+]}
