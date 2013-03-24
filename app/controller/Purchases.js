@@ -31,4 +31,5 @@ Ext.define('Sencha.controller.Purchases', {
             }
         }
     }
+    
 });
